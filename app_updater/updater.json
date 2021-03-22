@@ -1,0 +1,10 @@
+{
+    "latestVersion": "1.2.2",
+    "latestVersionCode": 10,
+    "url": "https://play.google.com/store/apps/details?id=team.alpha.aplayer",
+    "releaseNotes": [
+        "- Fix some bugs on Android with version below 5.0",
+        "- Fix cast to Android TV",
+        "- Minor changes and bugs fix"
+    ]
+}
